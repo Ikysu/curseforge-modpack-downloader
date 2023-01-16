@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "dotenv": "^16.0.3",
+        "md5-file": "^5.0.0",
+        "progress": "^2.0.3",
+        "request": "^2.88.2"
+    }
+}
